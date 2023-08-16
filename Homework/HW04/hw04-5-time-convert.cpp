@@ -12,7 +12,7 @@
             27
     Output:
         27 days = 2332800 seconds
-        
+ */       
  #include <stdio.h>
  int main() {
     int days;
